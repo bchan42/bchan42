@@ -21,13 +21,6 @@ I'm a recent graduate from Cal Poly SLO with a background in **Data Science** an
 
 I'm currently looking for roles in **data science**, **analytics**, or **quantitative research**.
 
-Recent projects include:
-- **Wildfire Policy Extraction and Mapping** – NLP + GIS to extract and visualize municipal fire policies
-- **Agent-Based Cardiac Model** – Simulated cardiac action potentials to analyze arrhythmia behavior
-- **Spam Email Classifier (Java)** – Built a neural network from scratch to classify spam messages
-- **Photo Classifier (CNN)** – Trained a convolutional neural network to classify images by photographer based on visual style
-- **Location-Based Social App** – Web app for LGBTQ+ community (2nd Place, Most Innovative at oSTEM Hackathon)
-
 📂 View my portfolio: [https://bchan42.github.io](https://bchan42.github.io)
 
 🔗 Connect with me:
